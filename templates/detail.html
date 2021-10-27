@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}Message #{{ post.id }}{% endblock title %}
+
+{% block content %}
+<div class="row" style="margin: 10px; padding: 10px;">
+    <h1>{{ post.title }} </h1>
+    <p>{{ post.body }}</p>
+    <br />
+</div>
+    
+{% endblock content %}

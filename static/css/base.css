@@ -1,0 +1,23 @@
+h3 {
+    padding-top: 10px;
+    color: blue;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+}
+
+h6 {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+}
+
+.content-block {
+    padding: 10px;
+    margin: 10px;
+
+}

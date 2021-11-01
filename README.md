@@ -7,6 +7,6 @@ commit all changes then,
 '$ git push heroku main' 
 
 Link to Heroku Deployed App
-url:https://afternoon-cove-44946.herokuapp.com/
+url:https://grisly-labyrinth-07226.herokuapp.com/
 
 
